@@ -25,6 +25,9 @@ for(let i in person){
 }
 console.log(text1);
 
+
+
+
 /*OUTPUT
 { firstname: 'mahalakshmi', lastname: 'yeleti', age: 20, height: 5.4 }
 { firstname: 'mahalakshmi', lastname: 'yeleti', age: 20, height: 5.4 }
@@ -33,4 +36,7 @@ mahalakshmi
 yeleti
 mahalakshmi yeleti 20 5.4 
 mahalakshmiyeleti205.4
+
+
+
 */
