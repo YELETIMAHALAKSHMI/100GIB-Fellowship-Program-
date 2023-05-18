@@ -51,7 +51,7 @@ let clock = setInterval(() => {
     }
 
     console.log(`${hrs}:${mts}:${secs}`);
-  }, 1000);
+  }, 3000);
 
 
 
@@ -116,8 +116,8 @@ honey,a,true,5.599,7658,hai
 
 //OUTPUT FOR DATE AND TIME (DIGITAL CLOCK)
 16:46:55
-16:46:56
-16:46:57
+16:46:58
+16:47:01
 .
 .
 .
